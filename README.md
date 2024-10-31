@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Hk9v1Jn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4bFhOXS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h1>How to Remote Desktop a Virtual Machine</h1>
