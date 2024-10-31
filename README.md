@@ -14,7 +14,7 @@ This tutorial outlines how to gain remote access to a virtual machine.<br />
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- Windows 
 
 <h2>Operating Systems Used </h2>
 
