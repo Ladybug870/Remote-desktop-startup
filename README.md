@@ -1,5 +1,5 @@
 <p align="center">
-
+<img src="https://i.imgur.com/9Q5uoKu.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
 <h1>How to access Remote Desktop on Windows 10</h1>
