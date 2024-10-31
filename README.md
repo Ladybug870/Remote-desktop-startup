@@ -33,6 +33,7 @@ This tutorial outlines how to gain remote access to a virtual machine.<br />
 <p>
 <img src="https://i.imgur.com/obN9pHH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  "/>
+
 </p>
 <p>
 Power on your windows computer and find the search bar at the bottom left hand corner.
@@ -40,7 +41,7 @@ Power on your windows computer and find the search bar at the bottom left hand c
 <br />
 
 <p>
-<img src="blob:https://imgur.com/5379c82b-44ff-488f-8e75-0f7af0e36660" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DfOdS7V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Type in Remote Desktop Connection, or RDC. Click on application. 
@@ -48,10 +49,17 @@ Type in Remote Desktop Connection, or RDC. Click on application.
 <br />
 
 <p>
-<img src="blob:https://imgur.com/b2f74272-1c57-49d9-82d7-4b68142f08cf" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YLDO4lm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+
 From there you enter the IP address of the PC that you are trying to connect to, then click connect. 
 <p>
+<p>
+ 
+</p>
+
+
 <img src="https://i.imgur.com/Vj9yKaJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
  
 </p>
