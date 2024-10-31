@@ -3,7 +3,7 @@
 </p>
 
 <h1>How to access Remote Desktop on Windows 10</h1>
-This tutorial outlines how to navigate to Remote Desktop.<br />
+This tutorial outlines how to navigate to Remote Desktop using a Windows 10 PC.<br />
 
 
 
