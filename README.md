@@ -2,8 +2,8 @@
 
 </p>
 
-<h1>How to Remote Desktop a Virtual Machine</h1>
-This tutorial outlines how to gain remote access to a virtual machine.<br />
+<h1>How to access Remote Desktop on Windows 10</h1>
+This tutorial outlines how to navigate to Remote Desktop.<br />
 
 
 <h2>Video Demonstration</h2>
